@@ -1,4 +1,4 @@
-const BACKEND_API_ENDPOINT = "https://garbageguardian-backend-ne6a.onrender.com"
+const BACKEND_API_ENDPOINT = "https://garbageguardian-backend-1vdv.onrender.com"
 
 //Het's Hosted Backend Link : https://garbageguardian-backend.onrender.com
 
